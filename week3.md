@@ -17,3 +17,5 @@ the next is context the current session messages which are retained by the LLM t
 next up is MCP:
 MCP is a standard protocol of connecting tools with LLM to increase their functionality.
 with MCPs LLMs and Agents can do various tasks like using web browsers or using tools like figma
+
+PS: uploaded request lifecycle diagram
